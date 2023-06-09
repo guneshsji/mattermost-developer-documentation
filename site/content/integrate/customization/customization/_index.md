@@ -16,7 +16,7 @@ There are a few limitations regarding {{< newtabref href="https://mattermost.com
 
 ## Server (Team Edition only)
 
-The {{< newtabref href="https://github.com/mattermost/mattermost-server" title="Mattermost server" >}}'s source code, written in Golang, may be customized to deliver additional functionalities or to meet specific security requirements.
+The {{< newtabref href="https://github.com/mattermost/mattermost" title="Mattermost server" >}}'s source code, written in Golang, may be customized to deliver additional functionalities or to meet specific security requirements.
 
 It's recommended that you attempt to meet such customizations by leveraging the [Plugin framework]({{< ref "/integrate/plugins" >}}) in order to avoid creating any breaking changes, however details on how to build a custom server may be found [here]({{< ref "/integrate/customization/customization/server-build" >}}).
 
